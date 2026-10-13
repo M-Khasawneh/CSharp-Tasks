@@ -1,0 +1,17 @@
+
+.vs/
+**/.vs/
+*.user
+*.suo
+
+
+**/bin/
+**/obj/
+
+
+*.tmp
+*.log
+
+# Operating system
+Thumbs.db
+.DS_Store
